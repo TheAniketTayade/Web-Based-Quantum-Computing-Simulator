@@ -73,7 +73,7 @@ Install the dependencies using the command:
 ```
 pip install -r requirements.txt
 ```
-## References
+## References.
 
 - [`Qiskit Documentation`](https://qiskit.org/documentation/)
 - [`Cirq Documentation`](https://quantumai.google/cirq)
