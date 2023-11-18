@@ -73,5 +73,14 @@ Install the dependencies using the command:
 ```
 pip install -r requirements.txt
 ```
+## References
+
+- [`Qiskit Documentation`](https://qiskit.org/documentation/)
+- [`Cirq Documentation`](https://quantumai.google/cirq)
+
+These references provide valuable documentation and resources for understanding and working with Qiskit and Cirq, the quantum computing libraries used in this project. Explore these references for in-depth insights into quantum computing concepts and advanced functionalities.
+
+
+
 
 
