@@ -1,5 +1,12 @@
 # Quantum Computing Simulator
 
+## Project Purpose
+The Quantum Computing Simulator project aims to provide a user-friendly web-based platform for exploring and experimenting with quantum algorithms. 
+Through an interactive interface, users can visualize quantum gates, circuits, and algorithms, gaining hands-on experience in the fascinating field of quantum computing. 
+The simulator utilizes web development technologies, including HTML, CSS, and JavaScript for the frontend, while the backend leverages Python with quantum computing libraries such as Qiskit and Cirq. 
+Whether you're a quantum enthusiast, student, or researcher, this simulator offers a playground to deepen your understanding of quantum principles and algorithms, fostering exploration and discovery in the world of quantum computing.
+
+
 ## Project Structure
 
 1. **index.html**: The main HTML file serving as the entry point for the web application. It contains the basic structure of the page.
