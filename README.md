@@ -54,3 +54,17 @@ def simulate_quantum_algorithm():
 
 if __name__ == "__main__":
     simulate_quantum_algorithm()
+```
+## Dependencies
+The project relies on the following dependencies:
+
+1. Qiskit
+2. Cirq
+
+Install the dependencies using the command:
+
+```
+pip install -r requirements.txt
+```
+
+
